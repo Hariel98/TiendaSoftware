@@ -1,0 +1,27 @@
+{
+    "name": "proyecto/gestion-tienda",
+    "description": "creacion de una tenda en linea",
+    "type": "proyect",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jordan",
+            "email": "joprdanhw@gmail.com"
+        },
+        {
+            "name": "edier",
+            "email": "pendiente@gmail.com"
+        }        
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "proyecto\\" : "src/" 
+
+        }
+    }
+
+
+}
